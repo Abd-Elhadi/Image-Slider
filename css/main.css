@@ -17,7 +17,6 @@ body {
     .container {
         width: 380px;
         margin: auto;
-        border: 1px solid black;
     }
 }
 
@@ -39,6 +38,7 @@ body {
 @media (max-width: 767px) {
     .slider-container img {
         width: 100%;
+        border-radius: 15px;
     }
 }
 
