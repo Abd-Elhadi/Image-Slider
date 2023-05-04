@@ -15,6 +15,10 @@ body {
     position: relative;
 }
 
+@media (max-width: 767px) {
+    
+}
+
 .slider-container img {
     position: absolute;
     opacity: 0;
